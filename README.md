@@ -1,0 +1,2 @@
+# python-scratch
+скрипт питона
